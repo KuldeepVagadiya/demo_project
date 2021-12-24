@@ -1,1 +1,3 @@
-https://leverageedu.com/blog/wp-content/uploads/2020/12/education-News-1.jpg
+{
+  "startingImage" : "https://leverageedu.com/blog/wp-content/uploads/2020/12/education-News-1.jpg"
+}

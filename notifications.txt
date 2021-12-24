@@ -1,0 +1,16 @@
+{
+  "notifications": [
+    {
+      "title": "First notification",
+      "desc": "This is for notifications"
+    },
+    {
+      "title": "Second notification",
+      "desc": "This is for notifications"
+    },
+    {
+      "title": "Standard 12 Material",
+      "desc": "Standard 12 Material arrive"
+    }
+  ]
+}

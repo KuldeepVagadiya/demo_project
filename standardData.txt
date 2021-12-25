@@ -1284,6 +1284,354 @@
           ]
         }
       ]
+    },
+    {
+      "homedata_name": "ધોરણ 11 ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "ધોરણ 10",
+          "standard_data": [
+            {
+              "standard_name": "ગણિત ",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "English",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Computer",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "hindi",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Gujarati",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                    }
+                  ]
+                },
+                {
+                  "standard_name": "hindi",
+                  "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                  "month_cat": [
+                    {
+                      "month_name": "Ch - 1",
+                      "videos": [
+                        {
+                          "video_name": "Psycology",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        },
+                        {
+                          "video_name": "Geography",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        }
+                      ],
+                      "material": [
+                        {
+                          "material_name": "Account",
+                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                        },
+                        {
+                          "material_name": "BA",
+                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                        }
+                      ]
+                    },
+                    {
+                      "month_name": "Ch - 2",
+                      "videos": [
+                        {
+                          "video_name": "Psycology",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                        },
+                        {
+                          "video_name": "Geography",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        }
+                      ],
+                      "material": [
+                        {
+                          "material_name": "Account",
+                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                        },
+                        {
+                          "material_name": "BA",
+                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

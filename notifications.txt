@@ -7,12 +7,12 @@
     },
     {
       "title": "Second notification",
-      "desc": "This is for notifications"
+      "desc": "This is for notifications",
       "link": "https://raw.githubusercontent.com/KuldeepVagadiya/demo_project/main/allPDFs/NDA_New.pdf"
     },
     {
       "title": "Standard 12 Material",
-      "desc": "Standard 12 Material arrive"
+      "desc": "Standard 12 Material arrive",
       "link": "https://raw.githubusercontent.com/KuldeepVagadiya/demo_project/main/allPDFs/NDA_New.pdf"
     }
   ]

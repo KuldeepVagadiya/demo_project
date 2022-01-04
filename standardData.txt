@@ -29,11 +29,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -54,11 +64,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -85,11 +105,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -110,11 +140,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -141,11 +181,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -166,11 +216,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -197,11 +257,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -222,11 +292,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -265,11 +345,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -290,11 +380,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -321,11 +421,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -346,11 +456,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -377,11 +497,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -402,11 +532,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -433,11 +573,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -458,11 +608,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -501,11 +661,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -526,11 +696,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -557,11 +737,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -582,11 +772,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -613,11 +813,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -638,11 +848,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -669,11 +889,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -694,11 +924,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -730,11 +970,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -755,11 +1005,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -786,11 +1046,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -811,11 +1081,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -842,11 +1122,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -867,11 +1157,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -898,11 +1198,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -923,11 +1233,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -966,11 +1286,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -991,11 +1321,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1022,11 +1362,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1047,11 +1397,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1078,11 +1438,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1103,11 +1473,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1134,11 +1514,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1159,11 +1549,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1190,11 +1590,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1215,11 +1625,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1244,11 +1664,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         }
                       ]
                     },
@@ -1269,11 +1699,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         }
                       ]
                     }
@@ -1314,11 +1754,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1339,11 +1789,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1370,11 +1830,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1395,11 +1865,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1426,11 +1906,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1451,11 +1941,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1482,11 +1982,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1507,11 +2017,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1538,11 +2058,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1563,11 +2093,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1592,11 +2132,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         }
                       ]
                     },
@@ -1617,11 +2167,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         }
                       ]
                     }
@@ -1662,11 +2222,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1687,11 +2257,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1718,11 +2298,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1743,11 +2333,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1774,11 +2374,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1799,11 +2409,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1830,11 +2450,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1855,11 +2485,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 }
@@ -1886,11 +2526,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1911,11 +2561,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                     }
                   ]
                 },
@@ -1940,11 +2600,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         }
                       ]
                     },
@@ -1965,11 +2635,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://drive.google.com/file/d/0B1MVW1mFO2zmdGhyaUJESWROQkE/edit?resourcekey=0-pMtsn9EIZkY9ThKP_vu3mQ"
+                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                         }
                       ]
                     }

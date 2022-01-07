@@ -29,21 +29,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -64,21 +64,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -105,21 +105,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -140,21 +140,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -181,21 +181,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -216,21 +216,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -257,21 +257,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -292,21 +292,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -345,21 +345,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -380,21 +380,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -421,21 +421,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -456,21 +456,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -497,21 +497,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -532,21 +532,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -573,21 +573,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -608,21 +608,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -661,21 +661,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -696,21 +696,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -737,21 +737,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -772,21 +772,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -813,21 +813,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -848,21 +848,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -889,21 +889,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -924,21 +924,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -970,21 +970,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1005,21 +1005,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1046,21 +1046,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1081,21 +1081,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1122,21 +1122,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1157,21 +1157,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1198,21 +1198,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1233,21 +1233,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1286,21 +1286,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1321,21 +1321,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1362,21 +1362,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1397,21 +1397,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1438,21 +1438,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1473,21 +1473,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1514,21 +1514,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1549,21 +1549,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1590,21 +1590,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1625,21 +1625,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1664,21 +1664,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ],
                       "textbook": [
                         {
                           "textbook_name": "textbook1",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "textbook_name": "textbook2",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ]
                     },
@@ -1699,21 +1699,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ],
                       "textbook": [
                         {
                           "textbook_name": "textbook1",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "textbook_name": "textbook2",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ]
                     }
@@ -1754,21 +1754,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1789,21 +1789,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1830,21 +1830,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1865,21 +1865,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1906,21 +1906,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -1941,21 +1941,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -1982,21 +1982,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2017,21 +2017,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -2058,21 +2058,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2093,21 +2093,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2132,21 +2132,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ],
                       "textbook": [
                         {
                           "textbook_name": "textbook1",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "textbook_name": "textbook2",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ]
                     },
@@ -2167,21 +2167,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ],
                       "textbook": [
                         {
                           "textbook_name": "textbook1",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "textbook_name": "textbook2",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ]
                     }
@@ -2222,21 +2222,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2257,21 +2257,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -2298,21 +2298,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2333,21 +2333,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -2374,21 +2374,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2409,21 +2409,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -2450,21 +2450,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2485,21 +2485,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 }
@@ -2526,21 +2526,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2561,21 +2561,21 @@
                   "material": [
                     {
                       "material_name": "Account",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "material_name": "BA",
-                      "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     },
                     {
                       "textbook_name": "textbook2",
-                      "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                     }
                   ]
                 },
@@ -2600,21 +2600,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ],
                       "textbook": [
                         {
                           "textbook_name": "textbook1",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "textbook_name": "textbook2",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ]
                     },
@@ -2635,21 +2635,21 @@
                       "material": [
                         {
                           "material_name": "Account",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "material_name": "BA",
-                          "material_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "material_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ],
                       "textbook": [
                         {
                           "textbook_name": "textbook1",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         },
                         {
                           "textbook_name": "textbook2",
-                          "textbook_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                          "textbook_link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
                         }
                       ]
                     }

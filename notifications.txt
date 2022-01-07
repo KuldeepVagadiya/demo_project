@@ -3,17 +3,17 @@
     {
       "title": "First notification",
       "desc": "This is for notifications",
-      "link": "https://raw.githubusercontent.com/KuldeepVagadiya/demo_project/main/allPDFs/NDA_New.pdf"
+      "link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
     },
     {
       "title": "Second notification",
       "desc": "This is for notifications",
-      "link": "https://raw.githubusercontent.com/KuldeepVagadiya/demo_project/main/allPDFs/NDA_New.pdf"
+      "link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
     },
     {
       "title": "Standard 12 Material",
       "desc": "Standard 12 Material arrive",
-      "link": "https://raw.githubusercontent.com/KuldeepVagadiya/demo_project/main/allPDFs/NDA_New.pdf"
+      "link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
     }
   ]
 }

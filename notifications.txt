@@ -3,7 +3,7 @@
     {
       "title": "First notification",
       "desc": "This is for notifications",
-      "link": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf"
+      "link": "https://www.orimi.com/pdf-test.pdf"
     },
     {
       "title": "Second notification",
